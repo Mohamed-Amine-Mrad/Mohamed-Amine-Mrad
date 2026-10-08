@@ -70,7 +70,7 @@ Developed a **Vehicle & Mission Management System (VMMS)** with a role-based adm
 
 **Key contributions:**
 
-- 👥 Built role-based access for **Admin, Responsable, and Employee**
+- 👥 Built role-based access for **Admin and Employee**
 - 🚗 Developed Employees, Vehicles, and Missions management modules
 - 🔐 Implemented authentication and **Row-Level Security (RLS)**
 - ⚙️ Built secure server-side API routes
